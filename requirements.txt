@@ -1,6 +1,6 @@
-tenosorflow==2.10.0
-tf-model-official
-tenosorflow_io==0.32.0
+tensorflow==2.8.0
+tf-models-official
+tensorflow_io==0.26.0
 notebook
 Cython
 labelImg
